@@ -1,0 +1,119 @@
+
+
+.body-aboutme {
+    padding: 10px;
+    color: #000000;
+    background-color: #fffff0;
+}
+
+.body-index {
+ padding: 10px;
+   
+    background-color: #fff0f5;
+}
+
+.body-resume {
+    padding: 10px;
+    background-color: #c3e3c3;
+}
+
+h1 {
+    color: #800000;
+    font-family: "Times New Roman", Times, serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2{
+    color: #2f7f7f;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+h3 {
+    margin: 10px;
+    color: #8b4513;
+    font-family: "Times New Roman", Times, serif;
+}
+
+nav{
+    background-color: #8fbc8f;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+
+li{
+    display: inline;
+    margin-right: 35px;
+}
+
+a{
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #faf0e6;
+}
+
+a:hover {
+    background-color: #66cdaa;
+}
+
+img{
+    margin: 10px;
+}
+
+body {
+    margin: 20px;
+}
+
+.p-beige{
+    color: #cd853f;
+}
+
+.p-red {
+    color: #b22222;
+}
+
+.button-blue {
+    background-color: #008b8b;
+    color: white;
+}
+
+.button-green {
+    background-color: #8fbc8f;
+    color: white;
+}
+
+
+.form-slate input[type="text"] {
+    background-color: #2f4f4f;
+    color: white;
+}
+
+.form-salmon input[type="email"] {
+    background-color: #e9967a;
+    color: #8b4513;
+}
+
+
+.form-brown textarea {
+    background-color: #a0522d;
+    color: white;
+}
+
+.form-brown input[type="text"] {
+    background-color: #a0522d;
+    color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+.label-green {
+    color: #006400;
+}
